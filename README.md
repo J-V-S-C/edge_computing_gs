@@ -25,3 +25,6 @@ Componentes conectados ao Arduino Uno:
 * **Arquitetura:** FSM (Máquina de Estados Finitos) sem uso de `delay()`.
 * **Temporização:** Baseada em `millis()` para execução não-bloqueante.
 * **Confiabilidade:** Histerese implementada para evitar oscilação de atuadores; persistência de erros na EEPROM para diagnóstico.
+
+## Link pro proj:
+https://www.tinkercad.com/things/4liqc7hURGt-copy-of-projeto-sensor-de-temperatura-e-umidade/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=l5PKpq0RCVR1W2FY6PB94VNtHUZ1Ql94qy-yCpgidzQ
